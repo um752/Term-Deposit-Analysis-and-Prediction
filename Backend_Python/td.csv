@@ -1,0 +1,453 @@
+ID,name,age,job,default,balance,housing,month,pcampaign,pdays,duration,poutcome,subscribed
+1,Utkarsh Mishra,2000,Student,no,12226,yes,1,-1,90,96,unknown,no
+2,Tanisha Ghosh,2001,Student,no,48,no,1,-1,120,591,unknown,no
+3,Tiyasha Parui,2001,Student,no,1364,no,1,115,45,508,failure,no
+4,Roshni Dey,2000,Student,no,5564,no,1,-1,80,560,unknown,no
+5,Pratyush Majumder ,2001,Student,no,720,yes,1,-1,50,99,unknown,no
+6,Bidyut Kumar Ghosh,1957,Retired,no,14107,no,1,-1,15,98,unknown,no
+7,Pronab Parui,1975,Govt,no,2126,yes,1,-1,40,131,unknown,no
+8,Sikha Ghosh,1967,Others,no,46,no,1,152,60,80,failure,no
+9,Rumpa Parui,1978,Others,no,5423,no,1,115,0,93,failure,no
+10,Kanailal Parui,1941,Retired,no,-198,yes,1,-1,0,165,unknown,no
+11,Tania Ghosh Das,1991,IT,no,1871,yes,1,-1,65,64,unknown,no
+12,Sabita Parui,1951,Others,no,-355,yes,1,-1,0,122,unknown,no
+13,Tanmoy Das,1989,IT,no,3505,no,1,-1,0,434,unknown,yes
+14,Sudhanshu Khan,1956,Govt,no,8332,no,1,96,50,164,failure,no
+15,Swapna Khan,1964,Others,no,1575,no,1,-1,40,407,unknown,no
+16,Srijita Chakraborty,1981,IT,no,689,yes,1,103,150,110,failure,no
+17,Debasish Khan,1983,Marketing,no,-565,yes,1,-1,45,191,unknown,no
+18,Arpita ghosh,1998,Business,no,2370,yes,1,103,0,56,other,no
+19,Sunayana Khan,1989,Others,no,328,yes,1,-1,0,125,unknown,no
+20,Prabir Parui,1968,Business,no,2578,no,1,-1,50,412,unknown,no
+21,Piyali Ghosh,1972,Others,no,1661,yes,1,-1,0,85,unknown,no
+22,Jhuma Parui,1979,House Worker,no,6493,yes,1,-1,0,180,unknown,no
+23,Diya Parui,2003,Student,no,3760,no,1,-1,70,1070,unknown,no
+24,Urmi Chakroborty,1965,House Worker,no,463,yes,1,-1,97,266,unknown,no
+25,Shubhasish Parui,1979,Business,no,135,yes,1,-1,120,94,unknown,no
+26,Samiran Chakraborty,1958,Retired,no,77,yes,1,-1,80,59,unknown,no
+27,Arpita Parui,1990,Teacher/Professor,no,0,yes,1,-1,50,125,unknown,no
+28,Debasish Parui,1979,Business,no,2668,no,1,-1,50,1606,unknown,no
+29,Lakhsminarayan Ghosh,1931,Retired,no,1262,no,1,-1,0,216,unknown,no
+30,Snehasish Parui,1965,Govt,no,20187,yes,1,-1,25,707,unknown,no
+31,Usha Mishra,1970,House Worker,no,135,yes,1,-1,0,862,unknown,no
+32,Sandhya Ghosh,1942,House Worker,no,1191,no,1,-1,0,214,unknown,no
+33,Vijay Kumar Mishra ,1964,Govt,no,7343,no,1,-1,60,78,unknown,no
+34,Rita Barua,1966,Others,no,315,yes,1,-1,0,62,unknown,no
+35,Vikash Kumar Mishra ,1987,Operations,no,1573,yes,1,-1,40,279,unknown,no
+36,Kakali Bhowmick,1960,House Worker,no,0,no,1,-1,0,173,unknown,no
+37,Priyanka Mishra ,1992,IT,no,1144,yes,1,-1,35,89,unknown,no
+38,Bijay Kumar Mishra ,1970,Business,no,685,no,1,-1,0,53,unknown,no
+39,Shibshankar Bhowmick,1958,Retired,no,621,yes,1,-1,20,97,unknown,no
+40,Nilam Mishra ,1976,House Worker,no,2228,no,1,-1,0,890,unknown,yes
+41,Deblina Bhowmick Nag,1987,IT,no,1039,yes,1,-1,30,581,unknown,no
+42,Baivab Pandey,2002,Student,no,0,no,1,-1,100,116,unknown,no
+43,Abhay Pandey,1968,Law,no,0,yes,1,-1,50,70,unknown,no
+44,Sumedha Pandey,1971,Teacher/Professor,no,1306,yes,1,-1,60,155,unknown,no
+45,Arijit Nag,1987,Marketing,no,0,yes,1,174,200,214,failure,no
+46,Rohit Mishra ,2001,Student,no,819,no,1,-1,35,200,unknown,no
+47,Rajib Mishra ,1972,Business,no,33,no,1,-1,90,27,unknown,no
+48,Amit Ghosh,1983,Manufacturing,no,898,no,1,-1,0,578,unknown,no
+49,Isha Misha,1975,Teacher/Professor,no,2919,yes,1,-1,50,153,unknown,no
+50,Ajay Das,1974,Manufacturing,no,1108,yes,1,-1,60,52,unknown,no
+51,Puja Koley Ghosh,1994,House Worker,no,0,yes,1,-1,456,62,unknown,no
+52,Purbasha Dutta ,2000,Student,no,4344,yes,1,118,0,79,failure,no
+53,Arnab Dutta,1981,Medical,no,1952,yes,1,-1,40,310,unknown,no
+54,Reba Ghosh,1954,House Worker,no,2551,yes,1,-1,250,150,unknown,no
+55,Purbita Dutta ,1993,Teacher/Professor,no,472,yes,1,150,60,229,failure,no
+56,Pankaj Ghosh,1950,Retired,no,1171,yes,1,-1,0,34,unknown,no
+57,Anwesha Deb,2001,Marketing,no,514,yes,1,188,60,573,other,no
+58,Animesh Deb,1969,Govt,no,1435,yes,1,-1,90,104,unknown,no
+59,Esha Deb,1974,Marketing,no,0,yes,1,-1,50,386,unknown,no
+60,Ananya Ghosh,2000,Student,no,597,no,1,-1,0,73,unknown,no
+61,Asish Ghosh ,1970,Business,no,252,yes,1,175,30,138,failure,no
+62,Sriparna Ghosh,1976,House Worker,no,0,yes,1,196,100,74,failure,no
+63,Debanjana Roy,2000,Marketing,no,6572,yes,1,-1,80,42,unknown,no
+64,Anjana Roy,1974,House Worker,no,10,yes,1,-1,0,273,unknown,no
+65,Debopom Roy,1968,Marketing,no,4425,no,1,110,45,147,failure,no
+66,Debarpita Roy,2001,Student,no,-36,yes,1,104,0,190,failure,no
+67,Arpita Roy,1976,Business,no,18,yes,1,-1,75,294,unknown,no
+68,Debomoy Roy,1973,Medical,no,0,yes,1,-1,30,96,unknown,no
+69,Aritra Bhattacharyya,2001,IT,no,92,no,1,-1,40,49,unknown,no
+70,Ishani Dutta,2000,Student,no,4230,no,1,-1,0,163,unknown,no
+71,Purbita Dutta ,1993,Govt,no,0,no,1,193,0,103,failure,no
+72,Gautam Bhattacharyya,1973,Law,no,1730,no,1,118,70,89,failure,no
+73,Umaa Dutta,1981,House Worker,yes,295,no,1,-1,120,190,unknown,no
+74,Rajkumari Dey,1998,Govt,no,4544,no,1,-1,0,77,unknown,no
+75,Ishan Dutta,1973,Govt,no,202,yes,1,104,40,651,failure,yes
+76,Bijoyesh Bhattacharyya,1967,Business,no,313,yes,1,188,300,42,failure,no
+77,Pragya Debroy,1994,Teacher/Professor,no,716,yes,1,-1,0,106,unknown,no
+78,Debjani Banerjee ,2000,Student,no,0,yes,1,-1,60,105,unknown,no
+79,Sharmistha Bhattacharyya,1975,Teacher/Professor,no,419,yes,1,181,40,186,failure,no
+80,Proma paul,2001,Student,no,344,yes,1,-1,0,56,unknown,no
+81,Debdeep Banerjee,2002,Law,no,0,no,1,-1,60,657,unknown,no
+82,Parama Paul,1972,House Worker,no,1467,yes,1,-1,150,349,unknown,no
+83,Nilabja Roy,1986,Medical,no,0,yes,1,-1,88,65,unknown,no
+84,Kritijit Das,2002,Govt,no,427,no,1,-1,30,62,unknown,no
+85,Sujoy Paul,1967,Teacher/Professor,no,14282,yes,1,103,4,77,success,no
+86,Ananya Adhikary,2001,Student,no,0,yes,1,-1,0,102,unknown,no
+87,Baishakhi Mukherjee ,2001,Student,no,3735,no,1,-1,0,91,unknown,no
+88,Srijit Das ,2002,Marketing,no,279,yes,1,-1,60,111,unknown,no
+89,Asha Mukherjee ,1977,House Worker,no,1270,yes,1,165,60,80,other,no
+90,Monalisa Roy,1989,Teacher/Professor,no,-370,no,1,-1,2,1449,unknown,no
+91,Dhruba Mukherjee,1987,Business,no,380,no,1,-1,68,696,unknown,yes
+92,Ravi Mukherjee ,1968,Business,no,209,yes,1,-1,40,188,unknown,no
+93,Sayan Banik ,2001,Student,no,441,yes,1,-1,60,160,unknown,no
+94,Ankita Dey,1992,HR,no,0,yes,1,-1,30,407,unknown,no
+95,Sanjan Banik,1973,Business,no,536,yes,1,-1,75,77,unknown,no
+96,Sritama Bhattacharyya,1980,Manufacturing,no,5187,no,1,-1,40,560,unknown,no
+97,Ankita Banik,1977,House Worker,no,1029,no,1,-1,60,108,unknown,no
+98,Anirban Mandol,1996,Law,no,0,yes,1,-1,64,113,unknown,no
+99,Anwesha Banik,2004,Student,no,4826,yes,1,185,0,102,other,no
+100,Jenifer Dsouza,1980,HR,no,1048,yes,1,186,40,71,failure,no
+101,Kshtiz Paul,1990,Marketing,no,2398,yes,1,-1,70,73,unknown,no
+102,Anubhav Naskar,1980,Marketing,no,0,yes,1,-1,80,199,unknown,no
+103,Aritrika Bhattacharyya,2002,Business,no,0,no,1,-1,20,106,unknown,no
+104,Piyusha Dey,2000,Business,no,179,yes,1,-1,0,96,unknown,no
+105,Soumya Ganguly,2001,Govt,no,71,yes,1,-1,60,64,unknown,no
+106,Arijit Singh,2000,Others,no,1918,yes,1,-1,20,321,unknown,no
+107,Abantika Das,1996,Law,no,2192,yes,1,-1,70,134,unknown,no
+108,Eisha Khanna,2002,HR,no,4005,yes,1,-1,30,141,unknown,no
+109,Bidyut Kumar Ghosh,1990,Others,no,0,no,1,-1,50,94,unknown,no
+110,Anuka Deb,1999,Student,no,2223,no,1,-1,0,499,unknown,no
+111,Avik Dutta,2001,IT,no,112,yes,1,131,300,1081,failure,no
+112,Sharmistha Bhattacharyya,1972,Teacher/Professor,no,493,yes,1,-1,50,64,unknown,no
+113,Anima Deb,1975,House Worker,no,0,yes,1,-1,90,107,unknown,no
+114,Bijoy Deb,1968,Law,no,0,yes,1,-1,120,84,unknown,no
+115,Arindam Deb,1995,Govt,no,17092,no,1,-1,60,35,unknown,no
+116,Rekha Deb,1997,House Worker,no,163,yes,1,-1,90,73,unknown,no
+117,Darshana Roy,2002,Student,no,3029,yes,1,-1,0,251,unknown,no
+118,Debapam Roy,1975,Business,no,6164,yes,1,-1,70,101,unknown,no
+119,Madhu Roy,1977,House Worker,no,563,yes,1,123,0,504,failure,no
+120,Maduparna Roy,1997,Teacher/Professor,no,1246,yes,1,-1,60,111,unknown,no
+121,Parna Roy,1970,House Worker,no,16264,no,1,-1,90,215,unknown,no
+122,Aniket Roy,1962,Retired,no,2363,yes,1,-1,45,229,unknown,no
+123,Anupam Roy,1992,Govt,no,1797,yes,1,181,30,166,failure,no
+124,Rimi Roy,1995,IT,no,7007,no,1,-1,75,325,unknown,no
+125,Madhumita Banerjee ,1971,Teacher/Professor,no,3440,yes,1,131,50,124,failure,no
+126,Sumita Bose,1994,IT,no,16,yes,1,-1,60,89,unknown,no
+127,Ritam Bose ,1993,HR,no,13,no,1,-1,50,240,unknown,no
+128,Rina Bose,1973,House Worker,no,968,no,1,-1,0,105,unknown,no
+129,Ankan Das,1993,Operations,no,300,yes,1,-1,150,48,unknown,no
+130,Akash Bose,1962,Retired,no,2747,no,1,-1,60,907,unknown,no
+131,Mayuri Dutta,1988,HR,yes,-24,yes,1,-1,30,14,unknown,no
+132,Aritra Naskar,2001,Student,no,361,no,1,-1,0,287,unknown,no
+133,Surobhi ghosal,1999,Student,no,81,yes,1,-1,60,120,unknown,no
+134,Parthib Mitra,1994,Law,no,508,yes,1,-1,0,158,unknown,no
+135,Sanjay Ghosal,1993,Govt,no,321,no,1,-1,30,254,unknown,no
+136,Anushka Ghosal,1995,Teacher/Professor,no,373,no,1,154,50,174,failure,no
+137,Devbarni Dey,1998,Others,no,3840,yes,1,-1,0,62,unknown,no
+138,Rani Ghosal,1971,House Worker,no,2096,no,1,-1,0,209,unknown,no
+139,Soumili Das,2002,Student,no,2020,yes,1,131,0,62,failure,no
+140,Abhik Ghosal,1966,Govt,no,24,yes,1,181,60,128,failure,no
+141,Suchetana Panda,2001,Student,no,-637,yes,1,-1,0,153,unknown,no
+142,Ranjana Mondal,1990,Medical,no,425,yes,1,181,400,240,failure,no
+143,Sujoy Panda,1993,Teacher/Professor,no,69,yes,1,-1,90,375,unknown,no
+144,Nayan Panda,1996,Teacher/Professor,no,80,no,1,145,120,74,failure,no
+145,Anushka Debnath,1996,Govt,no,5310,yes,1,-1,60,984,unknown,yes
+146,Chetana Panda,1969,House Worker,no,935,yes,1,-1,150,140,unknown,no
+147,Sujoy Panda,1963,Retired,no,585,yes,1,-1,60,131,unknown,no
+148,Tiyasha Chowdhury ,2001,Student,no,0,yes,1,-1,0,117,unknown,no
+149,Abhisek Sinha,1996,Marketing,no,757,yes,1,-1,0,90,unknown,no
+150,Bijoy Chowdhury ,1972,Marketing,no,3150,yes,1,-1,50,101,unknown,no
+151,Sumedha Chowdhury ,1976,House Worker,no,5,yes,1,-1,80,114,unknown,no
+152, Basundhara Dey,1997,Business,no,634,yes,1,131,20,65,failure,no
+153,Mouli Das,1999,Student,no,0,yes,1,181,0,809,other,no
+154,Shalini Jha,2002,HR,no,9678,yes,1,-1,30,318,unknown,no
+155,Sumouli Das,1976,Teacher/Professor,no,677,yes,1,171,0,619,other,no
+156,Jhilam Sen,2001,Business,no,970,yes,1,119,60,725,success,no
+157,Rakesh Roy,1999,Student,no,0,yes,1,-1,390,164,unknown,no
+158,Anup Das,1968,Business,no,899,no,1,145,120,61,other,no
+159,Ritesh Basak,2001,IT,no,1504,yes,1,-1,30,761,unknown,yes
+160,Abhinav Koley,2004,Student,no,830,no,1,138,60,71,failure,no
+161,Anumit Bhowmik ,1999,Student,no,-174,yes,1,-1,100,348,unknown,no
+162,Lalita Yadav,2001,HR,no,1357,yes,1,-1,40,233,unknown,no
+163,Anup Bhowmik ,1972,Law,no,0,yes,1,-1,90,213,unknown,no
+164,Sumedha Biswal,2001,IT,no,-1415,yes,1,-1,40,135,unknown,no
+165,Mita Bhowmik ,1975,House Worker,no,1187,no,1,-1,90,44,unknown,no
+166,Ujjal Ghosh,1992,Teacher/Professor,no,0,no,1,-1,15,194,unknown,no
+167,Anupam Bhowmik ,1976,Govt,no,2719,yes,1,171,60,166,failure,no
+168,Karim Ahmed,2001,HR,no,588,no,1,-1,60,303,unknown,no
+169,Anjali Das,1995,HR,no,4583,yes,1,-1,11,191,unknown,no
+170,Rina Bhowmik ,1980,House Worker,no,0,yes,1,195,90,58,failure,no
+171,Jiten Murmu,2001,Business,no,0,yes,1,-1,50,134,unknown,no
+172,Ashalata Bhowmik ,1948,House Worker,no,1657,yes,1,-1,0,155,unknown,no
+173,Sayani Debnath ,2000,Student,no,2289,yes,1,-1,0,183,unknown,no
+174,Jatin Das,2001,Marketing,no,567,yes,1,-1,50,554,unknown,no
+175,Aparajita Das,1996,Medical,no,722,no,1,-1,0,218,unknown,no
+176,Saheli Debnath ,1995,Teacher/Professor,no,200,no,1,-1,120,182,unknown,no
+177,Akash Karmakar,2001,Business,no,1783,no,1,-1,50,540,unknown,yes
+178,Sujoy Debnath ,1968,Business,no,-259,no,1,171,60,732,other,no
+179,Arka Bhowmick,1991,IT,no,22341,yes,1,-1,61,175,unknown,no
+180,Krittika Biswas,2001,IT,no,785,yes,1,-1,50,219,unknown,no
+181,Soma Debnath ,1974,House Worker,no,248,yes,1,126,150,139,failure,no
+182,Brandon Hamil,2001,Student,no,226,yes,1,-1,40,76,unknown,no
+183,Sulagna Dey,1988,Teacher/Professor,no,746,yes,1,-1,500,581,unknown,no
+184,Jayanta Naskar,1990,HR,no,4504,yes,1,-1,60,268,unknown,no
+185,Anusua Dey,1992,IT,no,12061,yes,1,188,0,150,failure,no
+186,Ashique Kurunian,2001,IT,no,-15,no,1,145,30,89,failure,no
+187,Adrija Koley,1996,Business,no,6274,yes,1,-1,600,500,unknown,no
+188,Atreyee Mondal,2000,Medical,yes,-741,yes,1,-1,40,53,unknown,no
+189,Rahul Agarwal,2000,IT,no,2920,yes,1,-1,30,131,unknown,no
+190,Sneha Ghosh,1999,Student,no,2152,yes,1,-1,50,369,unknown,no
+191,Neha Ghosh,1975,Teacher/Professor,no,189,yes,1,-1,90,111,unknown,no
+192,Nitai Das,2000,IT,no,601,no,1,-1,30,184,unknown,no
+193,Urvashi Deb,1993,Marketing,no,877,no,1,-1,0,90,unknown,no
+194,Rajib Ghosh ,1971,Manufacturing,no,28,no,1,-1,30,48,unknown,no
+195,Sourav Das,2000,Student,no,0,no,1,150,120,407,success,no
+196,Rohit Sen,2000,Govt,no,5326,no,1,-1,40,116,unknown,no
+197,Arnab Das,1965,Business,no,1563,yes,1,-1,90,128,unknown,no
+198,Pratick Roy,2000,Business,no,1932,yes,1,-1,20,146,unknown,no
+199,Suporna Das,1973,House Worker,no,1144,yes,1,-1,0,78,unknown,no
+200,Tungtang Bhattacharyya,1993,IT,no,4861,no,1,-1,190,256,unknown,no
+201,Soubhik Pal,1997,Marketing,no,4593,yes,1,-1,50,190,unknown,no
+202,Tiyash Sharma,2000,Operations,no,99,yes,1,-1,20,57,unknown,no
+203,Abhik Pal,1970,Business,no,4,no,1,96,120,223,failure,no
+204,Upasana Roy,1989,Law,no,3111,yes,1,188,1,111,failure,no
+205,Sumita Pal,1973,House Worker,no,2576,yes,1,-1,0,143,unknown,no
+206,Kumar Sen,2000,Business,no,1451,yes,1,150,30,157,failure,no
+207,Abantika Das,2000,Student,no,672,no,1,-1,120,171,unknown,no
+208,Ayantika Das,2000,Student,no,1319,yes,1,-1,60,113,unknown,no
+209,Ayan Das,1969,Teacher/Professor,no,1012,yes,1,-1,90,69,unknown,no
+210,Samir Ganguly,2000,Marketing,no,557,yes,1,173,50,158,failure,no
+211,Shivanksh Ganguly,1998,IT,no,5057,no,1,-1,3,104,unknown,no
+212,Prantika Das,1972,House Worker,no,2749,yes,1,-1,150,332,unknown,no
+213,Trisha Biswas,1998,Others,no,0,yes,1,-1,90,113,unknown,no
+214,LakshmiNarayan Ghosh,2000,Business,no,1143,yes,1,-1,30,106,unknown,no
+215,Soma Biswas ,1974,House Worker,yes,0,yes,1,-1,150,789,unknown,yes
+216,Debanjali Dutta,1997,Operations,no,600,yes,1,196,13,116,failure,no
+217,Kaushik Banerjee,2000,Manufacturing,no,350,no,1,132,70,113,failure,no
+218,Abhinob Biswas ,1968,Marketing,no,34247,yes,1,-1,40,66,unknown,no
+219,Sumona Chakraborty ,2000,Student,no,0,no,1,-1,120,501,unknown,no
+220,Tammanya Bhattacharyya ,1993,IT,no,248,no,1,126,90,99,failure,no
+221,Triparna Chakraborty ,1968,House Worker,no,0,yes,1,-1,0,201,unknown,no
+222,Binoy Chakraborty ,1966,Business,no,2,yes,1,-1,90,180,unknown,no
+223,Titas Sil,2000,Business,no,1818,no,1,111,40,189,failure,no
+224,Hrittika Poddar,2000,Business,no,3837,yes,1,193,280,184,success,no
+225,Bijoy Chakraborty ,1942,Retired,no,202,no,1,-1,0,148,unknown,no
+226,Sapnalekha Chakraborty ,1952,House Worker,no,242,no,1,-1,0,88,unknown,no
+227,Chitra Sen,2001,Marketing,no,16,no,1,-1,30,158,unknown,no
+228,Soumyadip Ghosh,1993,Govt,no,0,yes,1,119,580,65,failure,no
+229,Shreya Banerjee ,2003,Student,no,11650,yes,1,-1,0,48,unknown,no
+230,Soniya Banerjee ,1977,House Worker,no,58,yes,1,126,0,48,failure,no
+231,Sanjoy Banerjee ,1973,Govt,no,3552,yes,1,123,50,690,other,no
+232,PRITIKA ROY,2001,IT,no,572,no,1,-1,20,80,unknown,no
+233,Arna Bhattacharyya,1996,HR,no,0,yes,1,195,4,159,failure,no
+234,Lalita Banerjee ,1951,House Worker,no,131,no,1,-1,0,48,unknown,no
+235,Shayan Roy,2000,Marketing,no,38,yes,1,-1,50,89,unknown,no
+236,Debottom Banerjee ,1945,Retired,no,2155,no,1,-1,0,295,unknown,no
+237,Komola Nag,1967,House Worker,no,560,yes,1,-1,0,46,unknown,no
+238,Riten Banerjee,2000,Govt,no,20,yes,1,151,20,99,failure,no
+239,Babai Banerjee ,1977,Business,yes,-954,yes,1,180,60,69,failure,no
+240,Vhikash Mukharjee,1984,HR,no,0,no,1,129,90,836,failure,no
+241,Rimi Banerjee ,1986,House Worker,no,230,yes,1,195,150,174,failure,no
+242,Gitam Saha,2000,Teacher/Professor,no,505,yes,1,172,20,171,failure,no
+243,Sayantani Mukherjee ,2000,Student,no,93,yes,1,-1,90,230,unknown,no
+244,Anukul Roy,2001,HR,no,0,yes,1,-1,20,136,unknown,no
+245,Anukul Dey,1989,HR,no,3843,yes,1,150,300,70,other,no
+246,Sujoy Mukherjee ,1973,Business,no,109,no,1,129,60,124,other,no
+247,Smita Mukherjee ,1977,House Worker,no,2347,no,1,-1,120,555,unknown,no
+248,Ujjal Debnath,1966,Retired,no,1392,no,1,-1,600,231,unknown,no
+249,Abhinoy Banerjee ,1951,Retired,no,264,yes,1,-1,150,107,unknown,no
+250,Anita Sen,1990,Teacher/Professor,no,3640,no,1,-1,20,226,unknown,no
+251,Subhechha Mukherjee ,1999,Student,no,1831,no,1,-1,90,1531,unknown,no
+252,Satyaki Mukherjee,1978,Retired,no,1904,no,1,-1,680,131,unknown,no
+253,Shubham Mukherjee ,1972,IT,no,734,yes,1,-1,90,92,unknown,no
+254,Tirtha Modak,2001,Govt,no,620,yes,1,-1,20,93,unknown,no
+255,Anisha Mukherjee ,1975,Teacher/Professor,no,5,yes,1,131,120,118,other,no
+256,Aloka Mondal,1989,Govt,no,821,yes,1,180,156,224,failure,no
+257,Joy Saha,2000,Marketing,no,0,yes,1,-1,20,326,unknown,no
+258,Radhika Roy,2000,Student,no,4654,no,1,-1,90,251,unknown,no
+259,Jiya Sen,2000,Business,no,275,no,1,109,20,295,failure,no
+260,Munni das,1967,Others,no,1049,yes,1,129,0,101,failure,no
+261,Rani Roy,1976,Teacher/Professor,no,1414,yes,1,186,60,422,failure,no
+262,Aniket Roy,1973,Business,no,2145,no,1,-1,90,273,unknown,no
+263,Ankit Tiwari,2001,IT,no,653,yes,1,-1,20,60,unknown,no
+264,Kankona Bandopadhyay ,2001,Student,no,-210,yes,1,-1,60,523,unknown,no
+265,Swapnil Sen,2000,IT,no,163,yes,1,-1,20,72,unknown,no
+266,Kakoli Bandopadhyay ,1975,Teacher/Professor,no,0,yes,1,193,120,78,failure,no
+267,Arimit Deb,2000,HR,no,1058,no,1,-1,20,291,unknown,no
+268,Sunny Dey,1985,Others,no,11971,yes,1,101,620,609,failure,no
+269,Ranjib Bandopadhyay ,1971,Govt,no,7595,no,1,-1,60,1121,unknown,no
+270,Prithwi Das,2001,IT,no,794,yes,1,-1,20,564,unknown,no
+271,Aritra Banerjee ,1999,Student,no,1168,no,1,-1,60,673,unknown,no
+272,Akash Banerjee ,1972,Law,no,2269,no,1,150,60,1091,success,yes
+273,Parikshit Saha,2000,IT,no,271,yes,1,172,30,148,failure,no
+274,Suparna Banerjee ,1977,House Worker,no,1158,no,1,109,120,204,other,no
+275,Alokananda Deshpandey,1987,Govt,no,0,yes,1,-1,0,124,unknown,no
+276,Sankha Mukherjee ,2000,Student,no,-478,yes,1,167,60,87,failure,no
+277,Jishnu Das,1990,Operations,no,3795,yes,1,119,20,227,failure,no
+278,Shubham Mukherjee ,1973,Business,no,463,no,1,-1,90,141,unknown,no
+279,Ashapurna Mukherjee ,1977,House Worker,no,653,yes,1,186,0,193,failure,no
+280,Sikha Ghosh,2000,House Worker,no,486,yes,1,-1,20,69,unknown,no
+281,Gautami Ghotok,2000,Student,no,2242,no,1,-1,150,170,unknown,no
+282,Gautam Ghotok ,1974,Medical,no,1255,yes,1,171,50,151,failure,no
+283,Akhanshya Das,2000,IT,no,-403,no,1,119,20,130,failure,no
+284,Priyanka Ghotok,1977,House Worker,no,2171,yes,1,-1,150,567,unknown,no
+285,Mayukjit Chakraborty,1996,Manufacturing,no,0,yes,1,-1,69,360,unknown,no
+286,Jit Das,2000,Marketing,no,23,no,1,-1,20,221,unknown,no
+287,Vivek Kishor ,2000,Student,no,2636,no,1,151,90,178,failure,no
+288,Avik Kishore ,1971,Business,no,1029,yes,1,117,120,117,failure,no
+289,Siksha Agarwall,1990,Teacher/Professor,no,12839,yes,1,-1,50,228,unknown,no
+290,Simran Kishore ,1976,House Worker,no,1241,yes,1,-1,180,49,unknown,no
+291,Esha Kundu,2001,Student,no,-1157,no,1,-1,60,125,unknown,no
+292,Tanushree Dutta ,1995,Medical,no,0,no,1,-1,60,63,unknown,no
+293,Rekha Kundu,1978,House Worker,no,0,no,1,158,0,599,other,no
+294,Shayeri Ghosh,2000,Marketing,no,917,no,1,-1,40,367,unknown,no
+295,Anup Kundu,1971,Govt,no,1781,no,1,-1,90,69,unknown,no
+296,Muskan Pandey ,2000,Student,no,2139,no,1,-1,180,176,unknown,no
+297,Manoj Pandey ,1992,Marketing,no,815,no,1,-1,60,161,unknown,no
+298,Khushi Pandey,1993,Marketing,no,2278,no,1,-1,120,1735,unknown,no
+299,Amlan Saha,2001,IT,no,1502,no,1,109,30,340,failure,no
+300,Ranu Pandey ,1973,House Worker,no,7,yes,1,-1,0,501,unknown,no
+301,Anuj Pandey ,1968,Manufacturing,no,2378,no,1,-1,150,1132,unknown,yes
+302,Aditya Agrahari ,2000,Student,no,217,no,1,-1,90,110,unknown,no
+303,Umesh Agrahari ,1967,Business,no,856,no,1,-1,70,99,unknown,no
+304,Anita Agrahari ,1972,House Worker,no,652,no,1,-1,0,198,unknown,no
+305,Aman Agrahari ,1994,Business,no,1375,yes,1,-1,60,308,unknown,no
+306,Rita Agrahari ,1997,Teacher/Professor,no,2707,no,1,-1,120,212,unknown,no
+307,Antra Agarwal ,1999,Student,no,3684,yes,1,-1,60,35,unknown,no
+308,Aman Agarwal ,1969,Marketing,no,426,yes,1,111,80,127,failure,no
+309,Yamini Agarwal ,1973,House Worker,no,216,yes,1,-1,0,70,unknown,no
+310,Anaya Agarwal ,1995,Medical,no,299,no,1,-1,100,666,unknown,no
+311,Archana Singh ,2000,Student,no,-78,no,1,-1,45,330,unknown,no
+312,Arpana Singh ,1976,Teacher/Professor,no,237,yes,1,131,60,117,failure,no
+313,Sanjib Singh ,1970,Business,no,1988,no,1,-1,75,397,unknown,no
+314,Anish Singh ,1996,Law,no,1354,yes,1,-1,30,222,unknown,no
+315,Ishita Singh ,1996,IT,no,8,no,1,96,60,333,failure,no
+316,Arghadeep Ghosh,2000,Student,no,66,yes,1,-1,70,77,unknown,no
+317,Argha Ghosh ,1962,Retired,no,1503,no,1,-1,150,212,unknown,no
+318,Sandeep Ghosh ,1992,HR,no,1565,yes,1,-1,120,288,unknown,no
+319,Susmita Ghosh ,1967,Teacher/Professor,no,68,yes,1,-1,60,31,unknown,no
+320,Isha Ghosh ,1994,IT,no,0,no,1,-1,100,215,unknown,no
+321,Goutam Battabyal,1967,Teacher/Professor,no,3018,yes,1,-1,120,536,unknown,no
+322,Soubhik Battabyal ,1976,Business,no,1043,yes,1,119,90,57,failure,no
+323,Nisha Battabyal ,2023,House Worker,no,876,yes,1,-1,0,145,unknown,no
+324,Umapodo Battabyal ,1942,Retired,no,0,yes,1,-1,0,86,unknown,no
+325,Asish Gupta,2000,Student,no,1027,yes,1,168,60,188,failure,no
+326,Akash Gupta ,1995,Business,no,724,yes,1,172,100,157,failure,no
+327,Anish Gupta ,1969,Business,no,324,yes,1,-1,120,167,unknown,no
+328,Saniya Gupta,1972,House Worker,no,3337,yes,1,-1,90,99,unknown,no
+329,Biplab Kar,1998,Student,no,1162,no,1,-1,60,37,unknown,no
+330,Tanmoy Kar,1963,Retired,no,452,yes,1,-1,60,359,unknown,no
+331,Bikash Kar,1993,Law,no,614,no,1,-1,90,85,unknown,no
+332,Sanjita Kar,1996,Teacher/Professor,no,0,yes,1,-1,120,595,unknown,no
+333,Binita Kar,1974,House Worker,no,0,yes,1,-1,0,139,unknown,no
+334,Debosmita Ghosh,2002,Student,no,0,yes,1,131,120,273,failure,no
+335,Debopam Ghosh,1989,Marketing,no,430,no,1,-1,60,44,unknown,no
+336,Debparna Ghosh ,1967,Teacher/Professor,no,219,yes,1,196,120,204,failure,no
+337,Ronojoy Ghosh ,1964,Govt,no,627,yes,1,-1,90,102,unknown,no
+338,Ronita Ghosh,1991,Law,no,2935,yes,1,-1,120,137,unknown,no
+339,Debottom Bhattacharya ,1999,Student,no,1101,no,1,-1,90,99,unknown,no
+340,Debparna Bhattacharya ,2003,Student,no,1286,yes,1,-1,0,661,unknown,no
+341,Debomoy Bhattacharya ,1994,Govt,no,2106,yes,1,195,80,499,failure,no
+342,Anamika Bhattacharya ,1996,Teacher/Professor,no,453,no,1,-1,120,148,unknown,no
+343,Debasish Bhattacharya ,1967,Govt,no,1036,yes,1,-1,90,71,unknown,no
+344,Charulata Bhattacharya ,1945,House Worker,no,1077,yes,1,-1,0,148,unknown,no
+345,Anima Bhattacharya ,1976,House Worker,no,825,yes,1,-1,150,273,unknown,no
+346,Polok Majumdar ,1999,Student,no,2767,yes,1,186,60,374,failure,no
+347,Prakash Majumdar ,1991,IT,no,1269,yes,1,172,120,353,failure,no
+348,Laboni Majumdar ,1993,IT,no,1150,no,1,117,100,107,failure,no
+349,Alok Majumdar ,1967,HR,no,5115,yes,1,171,60,1210,failure,yes
+350,Subarna Majumdar ,1970,Teacher/Professor,no,18,yes,1,-1,120,118,unknown,no
+351,Radhika Karmakar ,2001,Student,no,1092,yes,1,186,120,176,failure,no
+352,Rani Karmakar ,1997,Manufacturing,no,121,no,1,151,120,211,failure,no
+353,Radha Karmakar ,1974,Others,no,644,no,1,109,90,220,failure,no
+354,Abhoy Karmakar ,1969,Law,no,0,yes,1,-1,60,960,unknown,no
+355,Subhodheep Karmakar ,1942,Retired,no,1606,no,1,-1,150,762,unknown,no
+356,Anupoma Karmakar ,1950,House Worker,no,469,yes,1,-1,0,181,unknown,no
+357,Sagnika Das,2000,Student,no,1680,yes,1,-1,60,414,unknown,no
+358,Sagnik Das,1989,Medical,no,12,yes,1,-1,120,150,unknown,no
+359,Tania Das,1994,IT,no,781,no,1,126,80,652,failure,yes
+360,Sujoy Das,1961,Retired,no,10378,yes,1,-1,90,523,unknown,no
+361,Lina Das,1969,House Worker,no,0,yes,1,-1,100,301,unknown,no
+362,Sonjoy Das,1938,Retired,no,1826,yes,1,-1,180,264,unknown,no
+363,Purnita Das,1946,House Worker,no,6153,no,1,-1,150,240,unknown,no
+364,Sampriti Chatterjee ,2001,Student,no,0,yes,1,168,90,114,failure,no
+365,Sampok Chatterjee ,1994,Govt,no,0,yes,1,-1,45,258,unknown,no
+366,Taniya Chatterjee ,1995,Govt,no,525,no,1,-1,60,172,unknown,no
+367,Sampurna Chatterjee ,1972,Teacher/Professor,no,611,no,1,-1,80,487,unknown,no
+368,Aniruddho Chatterjee ,1968,Govt,no,4958,yes,1,150,60,64,other,no
+369,Ranibala Chatterjee ,1946,House Worker,no,97,no,1,-1,0,215,unknown,no
+370,Sanchayita Bose ,2000,Student,no,197,yes,1,-1,0,48,unknown,no
+371,Sandip Bose,1996,Medical,no,106,yes,1,175,90,17,failure,no
+372,Sanjoy Bose,1962,Retired,no,406,no,1,-1,120,205,unknown,no
+373,Tanima Bose,1970,House Worker,no,204,yes,1,186,150,295,other,no
+374,Sumit Bose,1939,Retired,no,2479,yes,1,-1,0,292,unknown,no
+375,Ritamoyi Bose,1945,House Worker,no,-188,yes,1,-1,0,454,unknown,yes
+376,Saradasish Paul ,2000,Student,no,42,yes,1,-1,120,92,unknown,no
+377,Subhashis Paul,1995,Govt,no,1485,yes,1,-1,60,104,unknown,no
+378,Purnima Paul ,1998,House Worker,no,0,no,1,-1,90,318,unknown,no
+379,Sarada Paul,1974,House Worker,no,755,no,1,117,60,408,failure,no
+380,Aniket Paul,1968,Govt,no,981,yes,1,-1,80,276,unknown,no
+381,Anubhob Paul,1942,Retired,no,0,no,1,-1,150,252,unknown,no
+382,Purnima Paul,1948,House Worker,no,690,yes,1,-1,120,1012,unknown,no
+383,Sayantani Guha,2000,Student,no,653,no,1,-1,90,475,unknown,no
+384,Srija Guha,2004,Student,no,1777,yes,1,-1,150,81,unknown,no
+385,Sandeep Guha,1996,Teacher/Professor,no,0,yes,1,-1,50,126,unknown,no
+386,Trina Guha,1998,Govt,no,3329,no,1,-1,50,166,unknown,no
+387,Sujon Guha,1968,Business,no,1201,yes,1,97,120,82,failure,no
+388,Sutopa Guha,1974,House Worker,no,761,no,1,-1,0,514,unknown,yes
+389,Subhomoy Guha,1943,Retired,no,3059,yes,1,182,90,41,failure,no
+390,Topoti Guha,1950,House Worker,no,530,no,1,-1,0,244,unknown,no
+391,Sharmi Banerjee ,1999,Student,no,0,no,1,-1,120,189,unknown,no
+392,Shubham Banerjee ,1994,IT,no,7673,yes,1,-1,150,143,unknown,no
+393,Anamika Banerjee ,1996,IT,no,148,yes,1,-1,90,150,unknown,no
+394,Sutopa Banerjee ,1976,Teacher/Professor,no,323,yes,1,-1,150,41,unknown,no
+395,Rajib Banerjee ,1971,Law,no,751,yes,1,-1,30,237,unknown,no
+396,Sanjib Kumar Banerjee ,1944,Retired,no,2868,no,1,-1,180,42,unknown,no
+397,Aporupa Banerjee ,1951,House Worker,yes,-388,no,1,-1,150,295,unknown,no
+398,Bhavya Chandra ,1994,HR,no,1240,yes,1,-1,80,88,unknown,no
+399,Veinketnarayan Chandra ,1991,Medical,no,894,yes,1,-1,0,79,unknown,no
+400,Sneha Jana ,2000,Student,no,201,no,1,-1,60,117,unknown,no
+401,Srija Jana ,2000,Student,no,2269,yes,1,-1,75,233,unknown,no
+402,Subhojit Jana,1994,Govt,no,4324,yes,1,127,30,139,failure,no
+403,Susmita Jana ,1995,Teacher/Professor,no,756,yes,1,130,50,65,failure,no
+404,Jit Jana,1968,Govt,no,2039,yes,1,-1,120,283,unknown,no
+405,Purnita Jana,1972,House Worker,no,13342,yes,1,-1,0,465,unknown,no
+406,Sujita Jana,1950,House Worker,no,723,yes,1,110,0,119,failure,no
+407,Siddhant Maitra ,2000,Student,no,15,no,1,-1,150,186,unknown,no
+408,Siddharth Maitra ,1994,IT,no,195,yes,1,194,60,68,failure,no
+409,Ipsita Maitra ,1995,HR,no,879,yes,1,-1,45,140,unknown,no
+410,Trisha Maitra ,1974,Teacher/Professor,no,3275,yes,1,168,60,121,other,no
+411,Subhodheep Maitra ,1969,Law,no,2249,yes,1,125,0,228,failure,no
+412,Debdeep Maitra,1946,Retired,no,7717,yes,1,-1,150,386,unknown,no
+413,Chandra Maitra ,1952,House Worker,no,162,no,1,-1,0,140,unknown,no
+414,Srijeeta Guha ,2001,Student,no,606,no,1,-1,0,114,unknown,no
+415,Srija Guha ,2006,Student,no,137,no,1,176,60,52,failure,no
+416,Sritama Guha,1977,House Worker,no,26575,no,1,-1,0,93,unknown,no
+417,Abhinash Guha,1972,Business,no,135,yes,1,-1,150,109,unknown,no
+418,Joyita Guha,1955,House Worker,no,133,yes,1,-1,0,207,unknown,no
+419,Rajib Guha,1949,Retired,no,2133,no,1,-1,180,176,unknown,no
+420,Sudeepa Dey,2000,Student,no,2305,yes,1,-1,0,301,unknown,no
+421,Sudeep Dey,1993,Medical,no,19,yes,1,-1,120,1978,unknown,yes
+422,Modhuporna Dey,1998,Marketing,no,2101,no,1,-1,60,101,unknown,no
+423,Asha Dey,1974,House Worker,no,1613,yes,1,-1,0,95,unknown,no
+424,Srijon Dey,1965,Govt,no,-76,yes,1,-1,90,91,unknown,no
+425,Tarun Dey,1942,Retired,no,1741,yes,1,-1,0,40,unknown,no
+426,Taslima Banu,2000,Student,no,10888,yes,1,105,60,67,failure,no
+427,Tajima Banu,2006,Student,no,417,yes,1,-1,0,138,unknown,no
+428,Farhan Banu,1994,Medical,no,0,yes,1,-1,60,54,unknown,no
+429,Samina Khatun Banu,1997,Teacher/Professor,no,4320,yes,1,166,0,164,failure,no
+430,Fatima Banu,1975,House Worker,no,618,yes,1,-1,0,116,unknown,no
+431,Tanvir Banu,1968,Business,no,65,yes,1,-1,50,544,unknown,no
+432,Samina Mira Banu,1949,House Worker,no,4508,yes,1,-1,0,854,unknown,yes
+433,Irfaan Banu,1941,Retired,no,0,no,1,-1,150,348,unknown,no
+434,Akash Dey,1999,Student,no,263,yes,1,-1,60,365,unknown,no
+435,Bikash Dey,1994,Law,yes,280,no,1,-1,120,155,unknown,no
+436,Rimpi Dey,1996,Govt,no,1461,yes,1,165,0,290,success,no
+437,Papiya Dey,1973,House Worker,no,7108,yes,1,172,0,53,failure,no
+438,Abhik Dey,1962,Retired,no,2496,no,1,-1,180,94,unknown,no
+439,Anonto Dey,1939,Retired,no,256,yes,1,-1,0,76,unknown,no
+440,Sushmita Dey,1945,House Worker,no,33,no,1,-1,0,36,unknown,no
+441,Anurag Ghotok,2001,Student,no,1674,no,1,-1,80,333,unknown,no
+442,Trina Ghotok,2004,Student,no,316,yes,1,-1,150,244,unknown,no
+443,Joyita Ghotok ,1978,Govt,no,0,yes,1,-1,60,244,unknown,no
+444,Anurup Ghotok,1972,Govt,no,13,no,1,-1,180,106,unknown,no
+445,Anuradha Ghotok ,1952,House Worker,no,4415,yes,1,102,90,271,failure,no
+446,Samyabrata Sen,2002,Student,no,24,yes,1,-1,60,184,unknown,no
+447,Anubrata Sen,1990,Marketing,no,2,yes,1,-1,120,224,unknown,no
+448,Srija Sen,1994,IT,no,2126,no,1,-1,100,166,unknown,no
+449,Annesha Sen,1969,House Worker,no,4819,no,1,-1,240,144,unknown,no
+450,Sambrata Sen,1964,Govt,no,112,yes,1,-1,0,55,unknown,no
+451,Bratati Sen,1945,House Worker,no,9339,yes,1,172,180,52,other,no
+452,Nagen Sen,1939,Retired,no,589,yes,1,26,0,208,success,no

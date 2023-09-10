@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>TD Predictor | Get Started</title>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block body %}
+            <div class="container-xxl py-5 bg-primary hero-header mb-5">
+                <div class="container my-5 py-5 px-lg-5">
+                    <div class="row g-5 py-5">
+                        <div class="col-12 text-center">
+                            <h1 class="text-white animated zoomIn">Get Started</h1>
+                            <hr class="bg-white mx-auto mt-0" style="width: 90px;">
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb justify-content-center" style="background-color: rgba(31, 10, 150, 0)">
+                                    <li class="breadcrumb-item"><a class="text-white" href="/">Home</a></li>
+                                    <li class="breadcrumb-item"><a class="text-white" href="{{url_for('about')}}">About Our Product</a></li>
+                                    <li class="breadcrumb-item text-white active" aria-current="page">Get Started</li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-7">
+                        <div class="section-title position-relative text-center mb-5 pb-2 wow fadeInUp" data-wow-delay="0.1s">
+                            <h6 class="position-relative d-inline text-primary ps-4">Let's Get Started</h6>
+                            <h2 class="mt-2">Fill out the following form to get accurate Term Deposit prediction results</h2>
+                        </div>
+                        <div class="wow fadeInUp p-5 bg-primary rounded opacity-10" data-wow-delay="0.3s">
+                            <form>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="name">Client Name:</label>
+                                        <input type="text" pattern="[A-Za-z0-9].{1,}" title="Please Enter Valid Company Name" class="form-control required" id="name1" name="name" required>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="age">Age(in Years):</label>
+                                        <select class="rounded border p-1" id="age" name="age" style="width:100%;" required>
+                                            <option value=0>Less than 18</option>
+                                            <option value=1>18 to 60</option>
+                                            <option value=2>60 to 75</option>
+                                            <option value=3>Others</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <label class="text-light" for="job">Job:</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="job" name="job" style="width:100%;" required>
+                                            <option value=6>Management-Operations-Sales & Marketing</option>
+                                            <option value=2>Technical-IT</option>
+                                            <option value=1>Entrepreneur</option>
+                                            <option value=1>Blue Collar Industry</option>
+                                            <option value=8>Retired</option>
+                                            <option value=3>Administration</option>
+                                            <option value=1>Govt. service</option>
+                                            <option value=4>Self Employed</option>
+                                            <option value=1>House maid</option>
+                                            <option value=9>Student</option>
+                                            <option value=5>Unknown</option>
+                                            <option value=7>Unemployed</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="marital">Marital Status:</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="marital" name="marital" style="width:100%;" required>
+                                            <option value="single">Single</option>
+                                            <option value="married">Married</option>
+                                            <option value="divorced">Divorced</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <label class="text-light" for="education">Education Level:</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="education" name="education" style="width:100%;" required>
+                                            <option value="primary">High School</option>
+                                            <option value="secondary">Graduate</option>
+                                            <option value="tertiary">Post Graduate</option>
+                                            <option value="unknown">Others</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="default1">Defaulter status:</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="default1" name="default1" style="width:100%;" required>
+                                            <option value=1>Yes</option>
+                                            <option value=0>No</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <label class="text-light" for="balance">Average Monthly Balance(in $):</label>
+                                        <select class="rounded border p-1" id="balance" name="balance" style="width:100%;" required>
+                                            <option value=0><0(Debt.)</option>
+                                            <option value=1>0 to 750</option>
+                                            <option value=2>751 to 1650</option>
+                                            <option value=3>1650 to 3500</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="housing">Own a House?</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="housing" name="housing" style="width:100%;" required>
+                                            <option value=1>Yes</option>
+                                            <option value=0>No</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <label class="text-light" for="loan">Personal Loan:</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="loan" name="loan" style="width:100%;" required>
+                                            <option value=1>Yes</option>
+                                            <option value=0>No</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="poutcome">Last campaign outcome:</label>
+                                        <br>
+                                        <select class="rounded border p-1" id="poutcome" name="poutcome" style="width:100%;" required>
+                                              <option value=1>Unknown</option>
+                                              <option value=2>Failure</option>
+                                              <option value=4>Success</option>
+                                              <option value=3>Others</option>
+                                        </select>
+                                    </div>
+                                    <div class="col">
+                                        <label class="text-light" for="month">Preferred month to subscribe::</label>
+                                        <select class="rounded border p-1" id="month" name="month" style="width:100%;" required>
+                                              <option value=1>January</option>
+                                              <option value=2>February</option>
+                                              <option value=3>March</option>
+                                              <option value=4>April</option>
+                                              <option value=1>May</option>
+                                              <option value=1>June</option>
+                                              <option value=1>July</option>
+                                              <option value=8>August</option>
+                                              <option value=9>September</option>
+                                              <option value=10>October</option>
+                                              <option value=1>November</option>
+                                              <option value=12>December</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="text-light" for="duration">Cumulative Call Duration:</label>
+                                        <input type="number" class="form-control required" id="duration" name="duration" required>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row text-center">
+                                    <input type="button" onclick="fun1()" id="generate" class="btn btn-lg btn-block btn-light btn-outline-dark" value="Generate Report" ></div>
+                                <br>
+                            </form>
+                        </div>
+                        <br>
+                        <div class="wow fadeInUp p-2 text-center text-light bg-primary rounded opacity-10" data-wow-delay="0.3s">
+                            <p id="output" class="text-white" value="output1"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endblock %}
+</body>
+</html>
